@@ -1,6 +1,6 @@
 # pokedex
 
-Diego Viera Zegarra
+Diego Viera Zegarra //
 Desarrollo de POKEDEX en Flutter para CodiGo - Tecsup.
 
 ## Getting Started
